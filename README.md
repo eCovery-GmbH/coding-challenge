@@ -148,34 +148,20 @@ Heute ist Montag → Es wird:
 
 Bitte abgeben als:
 
-* **Git-Repository (bevorzugt)** oder
-* ZIP-Datei
+* Pull Request
 
 ### Sicherstellen:
 
 * Migrationen funktionieren
 * Der Endpunkt ist testbar
-* Optional: kurze "How to test"-Sektion in der README
+* Optional: kurze How To Test Anleitung in der PR Beschreibung
 
 ---
 
-## ✔️ Bewertungskriterien
+Es ist wichtig, dass du nur das machst, was die Coding Challenge von Dir möchte.
+Falls du länger als 2h brauchen solltest, brich bitte ab und wir begutachten den erreichten
+Status Quo!
 
-| Bereich            | Erwartung                                          |
-| ------------------ | -------------------------------------------------- |
-| Validation         | korrekt, vollständig, verständlich                 |
-| Datum-/Zeitlogik   | richtige Wochenberechnung, keine Off-by-one-Fehler |
-| Asynchron/Synchron | sauberer Einsatz von Jobs                          |
-| Code-Qualität      | Struktur, Lesbarkeit, Best Practices               |
-| Fehlerhandling     | klare Fehlermeldungen                              |
-| Saubere Response   | korrekte Rückgabe inkl. training/today             |
+Entwickle so, wie du es auch sonst machen würdest. Nutze alle Tools, etc. wie auch sonst.
 
----
-
-Wenn du möchtest, kann ich dir auch:
-
-* eine vollständige Musterlösung (Controller + Request + Job + Migration)
-* eine Bewertungsmatrix (0–5 Punkte pro Bereich)
-* ein minimales Starterprojekt
-
-…erstellen.
+Viel Spaß!
