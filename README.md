@@ -149,6 +149,7 @@ Heute ist Montag → Es wird:
 Bitte abgeben als:
 
 * Pull Request
+* Nutze das gegebene Repo als Basis (klone es und lege direkt los)
 
 ### Sicherstellen:
 
